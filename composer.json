@@ -1,0 +1,18 @@
+{
+  "name": "yashsharma/phpiggy",
+  "description": "A php application for tracking expenses..",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Codeyash1999",
+      "email": "codeyash1999@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "scr/App"
+    }
+  }
+}
